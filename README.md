@@ -30,11 +30,13 @@ Overall, the Spotify API, coupled with the spotipy library, empowers us to acces
 6. AWS Athena: Amazon Athena is an interactive query service that makes it easy to analyze data directly in Amazon Simple Storage Service (Amazon S3) using standard SQL
 
 ## Installed Packages
-'''
+
 pip install spotipy
+
 pip install pandas
+
 pip install numpy
-'''
+
 
 ## Project Execution Flow
 
