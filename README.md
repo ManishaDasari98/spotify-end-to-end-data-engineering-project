@@ -5,4 +5,5 @@ In this project, we will build an ETL pipeline using the Spotify API on AWS. The
 
 ## Architecture
 
-![image](https://github.com/ManishaDasari98/spotify-end-to-end-data-engineering-project/assets/166990279/147d46a3-bfbc-4b8f-ae59-ae7cd255c37c)
+![image](https://github.com/ManishaDasari98/spotify-end-to-end-data-engineering-project/assets/166990279/fcdc5ee0-af4c-4ee0-8c86-20a2c4e7b82c)
+
