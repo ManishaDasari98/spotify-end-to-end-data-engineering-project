@@ -32,4 +32,5 @@ Overall, the Spotify API, coupled with the spotipy library, empowers us to acces
 ## Installed Packages
 
 pip install spotipy
+
 pip install pandas
